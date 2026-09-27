@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">AI and machine intelligence abstract network</title>
+  <desc id="desc">A futuristic blue neural network surrounding a glowing processor core.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020611"/>
+      <stop offset="0.55" stop-color="#07152b"/>
+      <stop offset="1" stop-color="#0a2340"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="72%" cy="46%" r="42%">
+      <stop offset="0" stop-color="#5ef2ff" stop-opacity="0.38"/>
+      <stop offset="0.45" stop-color="#267fff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#020611" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="small"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <g opacity="0.18" stroke="#4ddfff" stroke-width="1">
+    <path d="M0 120H1600M0 240H1600M0 360H1600M0 480H1600M0 600H1600M0 720H1600M0 840H1600"/>
+    <path d="M120 0V900M280 0V900M440 0V900M600 0V900M760 0V900M920 0V900M1080 0V900M1240 0V900M1400 0V900"/>
+  </g>
+  <g opacity="0.28" fill="#8eefff">
+    <circle cx="170" cy="150" r="2"/><circle cx="330" cy="710" r="2"/><circle cx="520" cy="210" r="2"/><circle cx="610" cy="640" r="2"/><circle cx="830" cy="150" r="2"/><circle cx="1410" cy="170" r="2"/><circle cx="1510" cy="690" r="2"/><circle cx="1180" cy="760" r="2"/>
+  </g>
+  <g stroke="#65e8ff" stroke-width="3" fill="none" opacity="0.55">
+    <path d="M860 280L1010 205L1190 270L1325 415L1260 590L1080 680L905 615L820 455Z"/>
+    <path d="M1010 205L1080 680M1190 270L905 615M1325 415L820 455M860 280L1260 590" opacity="0.45"/>
+  </g>
+  <g fill="#7df4ff" stroke="#d7fbff" stroke-width="2">
+    <circle cx="860" cy="280" r="10"/><circle cx="1010" cy="205" r="10"/><circle cx="1190" cy="270" r="10"/><circle cx="1325" cy="415" r="10"/><circle cx="1260" cy="590" r="10"/><circle cx="1080" cy="680" r="10"/><circle cx="905" cy="615" r="10"/><circle cx="820" cy="455" r="10"/>
+  </g>
+  <circle cx="1080" cy="445" r="155" fill="#42dfff" opacity="0.12" filter="url(#soft)"/>
+  <rect x="965" y="330" width="230" height="230" rx="30" fill="#071b32" stroke="#71efff" stroke-width="4"/>
+  <rect x="1015" y="380" width="130" height="130" rx="18" fill="#0b2948" stroke="#4aa8ff" stroke-width="3"/>
+  <path d="M1040 445h80M1080 405v80" stroke="#92f6ff" stroke-width="8" stroke-linecap="round" filter="url(#small)"/>
+  <g stroke="#5fe8ff" stroke-width="5" opacity="0.75">
+    <path d="M965 365h-55M965 415h-75M965 465h-75M965 515h-55M1195 365h55M1195 415h75M1195 465h75M1195 515h55M1000 330v-55M1050 330v-75M1100 330v-75M1150 330v-55M1000 560v55M1050 560v75M1100 560v75M1150 560v55"/>
+  </g>
+</svg>
