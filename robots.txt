@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://teacherinthedesert65.github.io/Murphy-Knowledge-Project/sitemap.xml
