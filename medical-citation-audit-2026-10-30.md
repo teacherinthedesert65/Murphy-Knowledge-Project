@@ -99,3 +99,7 @@ Attempted direct access to the four source URLs listed in `longevity-geroscience
 | [NIA Division of Aging Biology notices](https://www.nia.nih.gov/research/dab/division-aging-biology-notices-funding-opportunities) | Automated request returned HTTP 405 (method not allowed) | Page content not verified; **not proof the page is gone** |
 
 **Editorial decision:** Preserve the current source URLs rather than replacing them with unverified alternatives. The CALERIE article now explicitly distinguishes methylation biomarkers from clinical outcomes. Next verification step requires an accessible NIH/publisher rendering or independently retrieved primary text. Do not label these four references verified solely because their domains are authoritative.
+
+## Alzheimer's enzyme targets source hierarchy — October 30, 2026
+
+Reviewed `alzheimers-brain-enzyme-targets.html`. IDOL section links to Wiley DOI `10.1002/alz.70949` and an Indiana University institutional summary; ACE section links to Nature Aging `s43587-025-00879-1` and Cedars-Sinai summary; cPLA2 section links to USC institutional reporting but **not a direct primary-paper citation**. These URLs are inventoried, not independently validated in this pass. Added a visible source-hierarchy notice, qualified the earlier phrase 'independently sourced,' and corrected the article's canonical URL to the MKP custom domain. Follow up: locate and validate the cPLA2 original publication and compare all mechanistic claims with the primary methods.
