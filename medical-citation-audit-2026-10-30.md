@@ -53,3 +53,17 @@ All links listed here require independent verification; none are declared invali
 - **Melanoma vaccine:** [ClinicalTrials.gov record NCT05933577](https://clinicaltrials.gov/study/NCT05933577) is linked, but the available browser view did not expose sufficient trial record fields to verify reported efficacy numbers. Sponsor and news-reported percentages remain **pending independent source comparison**; no unsupported claim is declared disproven.
 
 **Editorial correction:** An inaccessible DOI redirect is not evidence of a nonexistent paper. Both Nature publication records have now been located through publisher-indexed pages. Further checks remain for exact article-level numerical claims.
+
+## Melanoma INTerpath-001 numerical comparison — October 30, 2026
+
+**Source level:** Cross-checked against the October 22 Merck/Moderna sponsor results announcement, the NCI listing for ClinicalTrials.gov NCT05933577, and contemporary specialist clinical reporting (The ASCO Post, OncLive). These are consistent reports of interim ESMO 2026 results, **not independent verification against a peer-reviewed full trial paper**.
+
+- Randomized study: 1,137 participants (757 combination, 380 control), surgically resected stage IIB–IV melanoma; median follow-up 24.6 months.
+- Recurrence-free survival at 24 months: 82.2% versus 70.0%; absolute difference 12.2 percentage points; hazard ratio 0.58 (95% CI 0.45–0.75), not a 42-percentage-point absolute improvement.
+- Distant-metastasis-free survival at 24 months: 88.5% versus 80.2%; hazard ratio 0.62 (95% CI 0.45–0.85).
+- Overall survival: interim HR 0.77 (95% CI 0.45–1.31; P=.33), not statistically significant; survival benefit remains unestablished.
+- **Safety denominator distinction:** Sponsor-reported *treatment-related* grade 3–5 adverse events: 14.2% versus 13.4%. Clinical coverage reports *all-cause* grade 3 or higher adverse events: 23.6% versus 20.3%. These are different definitions, not interchangeable statistics.
+
+Sources: [Sponsor announcement](https://markets.ft.markitdigital.com/data/announce/detail?dockey=600-202610221459BIZWIRE_USPRX____20261022_BW568161-1); [NCI trial listing](https://www.cancer.gov/research/participate/clinical-trials-search/v?id=NCT05933577); [ASCO Post](https://ascopost.com/news/october-2026/high-risk-melanoma-personalized-mrna-vaccine-plus-immunotherapy-reduces-risk-of-recurrence-after-surgery/); [OncLive](https://www.onclive.com/view/adjuvant-intismeran-autogene-plus-pembrolizumab-improves-rfs-and-dmfs-in-melanoma).
+
+**Remaining:** Check the full peer-reviewed Phase 3 publication and regulatory record when available. Do not label the reported results as independently peer-reviewed yet.
