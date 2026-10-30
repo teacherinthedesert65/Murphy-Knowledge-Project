@@ -82,3 +82,7 @@ The Nature publisher page for DOI 10.1038/s41586-026-11206-y redirected to a res
 - The reported **30 cohorts**, **effective sample size of approximately 416,493**, **91% European ancestry**, and detailed gene prioritization also remain pending direct comparison with the publication's methods and supplements.
 
 **Source-access outcome:** Nature's DOI landing page redirected to an inaccessible publisher identity flow on October 30, 2026. A web search surfaced MKP's own article, which cannot count as independent corroboration. Therefore these are **internal arithmetic checks only**, not validation of the underlying study data. Keep the article's verification notice until the primary tables are available.
+
+## Geroscience article editorial review — October 30, 2026
+
+Reviewed `longevity-geroscience.html` for clinical inference. The CALERIE paragraph was tightened: randomized human evidence for selected methylation biomarkers does not establish increased lifespan, fewer disease events, or clinically meaningful rejuvenation. The heading now explicitly says biomarker evidence. Existing Nature Aging citation `https://www.nature.com/articles/s43587-022-00357-y` remains linked; **full-text publication details and all other outbound NIA links have not been independently revalidated in this pass**. Do not mark them verified on the basis of this editorial correction alone.
