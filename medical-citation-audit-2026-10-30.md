@@ -71,3 +71,14 @@ Sources: [Sponsor announcement](https://markets.ft.markitdigital.com/data/announ
 ## Alzheimer's numerical verification attempt — October 30, 2026
 
 The Nature publisher page for DOI 10.1038/s41586-026-11206-y redirected to a restricted identity/access flow in the available browser. Thus the study's detailed figures (2,815,127 total participants; 30 cohorts; 118 multi-ancestry and nine ancestry-specific loci; 127 total with 48 new; four case/control subgroups; effective N 416,493; 91% European ancestry) **could not be checked directly against Table 1 and supplementary methods**. The publication record was identified earlier, but that is not verification of its detailed numerical results. The live article now carries a visible pending-verification notice. Recheck the original PDF, Table 1, and supplements when accessible; amend any discrepancies before removing the notice.
+
+## Alzheimer's internal consistency check — October 30, 2026
+
+**Arithmetic verified from figures currently printed on MKP (not independently sourced):**
+
+- 109,479 diagnosed cases + 74,141 proxy cases + 2,131,799 controls + 499,708 proxy controls = **2,815,127**, exactly matching the article's stated total of 2,815,127.
+- 118 multi-ancestry loci + 9 ancestry-specific loci = **127**, matching the stated total.
+- The claim of **48 newly identified regions** cannot be derived from the above sums and remains pending source-table verification.
+- The reported **30 cohorts**, **effective sample size of approximately 416,493**, **91% European ancestry**, and detailed gene prioritization also remain pending direct comparison with the publication's methods and supplements.
+
+**Source-access outcome:** Nature's DOI landing page redirected to an inaccessible publisher identity flow on October 30, 2026. A web search surfaced MKP's own article, which cannot count as independent corroboration. Therefore these are **internal arithmetic checks only**, not validation of the underlying study data. Keep the article's verification notice until the primary tables are available.
