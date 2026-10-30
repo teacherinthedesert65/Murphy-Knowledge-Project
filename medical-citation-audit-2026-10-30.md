@@ -86,3 +86,16 @@ The Nature publisher page for DOI 10.1038/s41586-026-11206-y redirected to a res
 ## Geroscience article editorial review — October 30, 2026
 
 Reviewed `longevity-geroscience.html` for clinical inference. The CALERIE paragraph was tightened: randomized human evidence for selected methylation biomarkers does not establish increased lifespan, fewer disease events, or clinically meaningful rejuvenation. The heading now explicitly says biomarker evidence. Existing Nature Aging citation `https://www.nature.com/articles/s43587-022-00357-y` remains linked; **full-text publication details and all other outbound NIA links have not been independently revalidated in this pass**. Do not mark them verified on the basis of this editorial correction alone.
+
+## Geroscience outbound reference access check — October 30, 2026
+
+Attempted direct access to the four source URLs listed in `longevity-geroscience.html`:
+
+| Source | Result from automated access | Verification status |
+| --- | --- | --- |
+| [NIA Geroscience Interest Group](https://www.nia.nih.gov/gsig) | NIH page displayed JavaScript/anti-bot verification gate | Source content not verified; **not evidence of a broken link** |
+| [NIA cellular senescence article](https://www.nia.nih.gov/news/does-cellular-senescence-hold-secrets-healthier-aging) | NIH page displayed JavaScript/anti-bot verification gate | Source content not verified; **not evidence of a broken link** |
+| [Nature Aging CALERIE article](https://www.nature.com/articles/s43587-022-00357-y) | Publisher redirected to inaccessible identity authorization flow | Full paper not verified; **not evidence of a broken DOI** |
+| [NIA Division of Aging Biology notices](https://www.nia.nih.gov/research/dab/division-aging-biology-notices-funding-opportunities) | Automated request returned HTTP 405 (method not allowed) | Page content not verified; **not proof the page is gone** |
+
+**Editorial decision:** Preserve the current source URLs rather than replacing them with unverified alternatives. The CALERIE article now explicitly distinguishes methylation biomarkers from clinical outcomes. Next verification step requires an accessible NIH/publisher rendering or independently retrieved primary text. Do not label these four references verified solely because their domains are authoritative.
